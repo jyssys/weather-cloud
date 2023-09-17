@@ -1,0 +1,24 @@
+Connected
+{
+"coord":{"lon":126.98,"lat":37.57},
+"weather": {"id":801,"main":"Clouds","description":"few clouds","icon":"02d"} 
+,"base":"stations","main":{"temp":6.26,"pressure":1030,"humidity":44,"temp_min":3,"temp_max":9},
+"visibility":10000,"wind":{"speed":1.5,"deg":290},
+"clouds":{"all":20},
+"dt":1575446214,"sys":{"type":1,"id":5501,"country":"KR","sunrise":1575412225,"sunset":1575447236},
+"timezone":32400,"id":1835848,"name":"Seoul","cod":200}
+
+Seoul
+few clouds
+6.26
+44.00
+1030.00
+
+437614.5069444  흐른 시간  1970년 1월 1일 부터
+
+
+weather list = https://openweathermap.org/weather-conditions
+https://openweathermap.org/weather-data
+https://openweathermap.org/current
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
